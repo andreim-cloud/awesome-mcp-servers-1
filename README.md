@@ -179,6 +179,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://www.couchbase.com/wp-content/uploads/2023/10/couchbase-favicon.svg" height="14"/> [Couchbase](https://github.com/Couchbase-Ecosystem/mcp-server-couchbase)<sup><sup>⭐</sup></sup> - MCP server to interact with the data stored in Couchbase clusters including natural language querying. 
 - <img src="https://avatars.githubusercontent.com/u/1529926?s=48&v=4" height="14"/> [Redis](https://github.com/redis/mcp-redis)<sup><sup>⭐</sup></sup> - A natural language interface designed for agentic applications to efficiently manage and search data in Redis.
 - <img src="https://framerusercontent.com/images/ijlYG00LOcMD6zR1XLMxHbAwZkM.png" height="14" /> [VideoDB Director](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol)<sup><sup>⭐</sup></sup> - Create AI-powered video workflows including automatic editing, content moderation, voice cloning, highlight generation, and searchable video moments—all accessible via simple APIs and intuitive chat-based interfaces.
+- <img src="https://datamcp.app/favicon.ico" height="14"/> [datamcp](https://github.com/datamcpapp/datamcp-app) - Hosted MCP gateway for PostgreSQL 12+, MySQL, and OpenAPI 3.x with scoped links, server-side credentials, and remote Streamable HTTP access.
 
 <br />
 
